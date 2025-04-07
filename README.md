@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **NiemiSETI**, an advanced signal intelligence framework designed to detect, decode, and analyze potential **engineered structures** in gravitational-wave data.
 
-Founded in 2024, This project investigates the frontier where astrophysics, symbolic mathematics, and recursive AI systems intersect — exploring the possibility that some gravitational anomalies may encode **structured, interstellar communication**.
+Founded in 2024, this project investigates the frontier where astrophysics, symbolic mathematics, and recursive AI systems intersect, exploring the possibility that some gravitational anomalies may encode **structured, interstellar communication**.
 
 ---
 
